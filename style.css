@@ -1,0 +1,23 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    appearance: none;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+}
+.control:focus { 
+    outline: none !important;
+    border-color: #719ECE;
+ }
+ .container{
+    max-width: 400px;
+ }
