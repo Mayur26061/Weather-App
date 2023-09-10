@@ -1,4 +1,3 @@
-console.log("Hello");
 let loc = undefined;
 let weather = undefined;
 const key = "PjAnxdEyfjUgDkJWpPAYmF1huEkH3VaC";
