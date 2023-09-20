@@ -1,6 +1,6 @@
 class Forecast {
   constructor() {
-    this.key = "PjAnxdEyfjUgDkJWpPAYmF1huEkH3VaC";
+    this.key = <Your Key>;
     this.cityURI = "http://dataservice.accuweather.com/locations/v1/cities/search";
     this.weatherURI = "http://dataservice.accuweather.com/currentconditions/v1/"
   }
